@@ -1,0 +1,8 @@
+# Library
+Library/
+.vscode/
+Packages/
+Logs/
+
+.cache
+Temp/
