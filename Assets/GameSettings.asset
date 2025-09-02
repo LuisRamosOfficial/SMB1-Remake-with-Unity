@@ -9,7 +9,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 388ffb4da18820e4e99fd423acd04c18, type: 3}
+  m_Script: {fileID: 11500000, guid: 2ce5324c4119b7c48a6e5f3189c7e7ed, type: 3}
   m_Name: GameSettings
   m_EditorClassIdentifier: 
   gravity: -9.8
