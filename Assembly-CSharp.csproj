@@ -67,6 +67,7 @@
   <ItemGroup>
     <Compile Include="Assets\Player.cs" />
     <Compile Include="Assets\Mario.cs" />
+    <Compile Include="Assets\GameSettings.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
